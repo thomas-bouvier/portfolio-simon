@@ -1,0 +1,91 @@
+baseURL = "http://example.org/"
+languageCode = "fr-fr"
+title = "Simon Meriadec"
+theme = "uno"
+
+[params]
+  logo = "Simon Meriadec"
+  logoSmall = "SM"
+  description = "Bienvenue sur mon site !"
+  author = "Simon Meriadec"
+
+[taxonomies]
+  tag = "tags"
+  category = ""
+
+DefaultContentLanguage = "fr"
+
+[languages]
+  [languages.fr]
+    languageName = "Français"
+    [[languages.fr.menu.main]]
+      identifier = "quote"
+      name = "Devis"
+      url = "/quote/"
+      weight = 0
+    [[languages.fr.menu.main]]
+      identifier = "interests"
+      name = "Intérêts"
+      url = "/interests/"
+      weight = 1
+    [[languages.fr.menu.main]]
+      identifier = "about"
+      name = "À propos"
+      url = "/about/"
+      weight = 2
+    [[languages.fr.menu.main]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact/"
+      weight = 3
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    [[languages.en.menu.main]]
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact/"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "interets"
+      name = "Interests"
+      url = "/interests/"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "About me"
+      url = "/about/"
+      weight = 0
+    [[languages.en.menu.main]]
+      identifier = "quote"
+      name = "Quote"
+      url = "/quote/"
+      weight = 0
+  [languages.es]
+    languageName = "Español"
+    weight = 1
+    [[languages.es.menu.main]]
+      identifier = "contact"
+      name = "Contacto"
+      url = "/contact/"
+      weight = 1
+    [[languages.es.menu.main]]
+      identifier = "interets"
+      name = "Aficción"
+      url = "/interests/"
+      weight = 1
+    [[languages.es.menu.main]]
+      identifier = "about"
+      name = "Conocerme"
+      url = "/about/"
+      weight = 0
+    [[languages.es.menu.main]]
+      identifier = "quote"
+      name = "Presupuesto"
+      url = "/quote/"
+      weight = 0
+
+[privacy]
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
