@@ -1,3 +1,5 @@
-# Title
+---
+title: "Contacto"
+---
 
-Please send me an email to [meriadec.simon@gmail.com](mailto:meriadec.simon@gmail.com).
+Por favor, envíeme un correo electrónico a [meriadec.simon@gmail.com](mailto:meriadec.simon@gmail.com).
