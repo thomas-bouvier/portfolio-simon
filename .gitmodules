@@ -1,3 +1,3 @@
 [submodule "themes/uno"]
 	path = themes/uno
-	url = git@github.com:thomas-bouvier/gohugo-theme-uno.git
+	url = https://github.com/thomas-bouvier/gohugo-theme-uno.git
