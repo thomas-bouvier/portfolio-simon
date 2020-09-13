@@ -1,7 +1,7 @@
 ---
 title: "Podcasts"
 date: 2017-08-28
-description: "J'effectue des podcats."
+description: "J'effectue des podcasts."
 draft: false
 ---
 
