@@ -13,7 +13,7 @@ defaultContentLanguage = "fr"
   author = "Simon Meriadec"
 
 [taxonomies]
-  tag = "tags"
+  tag = ""
   category = ""
 
 [languages]
