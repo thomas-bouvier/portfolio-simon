@@ -6,7 +6,7 @@ hero:
 ---
 Bienvenido a mi página web.
 
-Soy Simon, traductor independiente desde marzo de 2020. Después de trabajar en una agencia de traducción en Madrid, me embarco en una aventura empresarial para cumplir con mi pasión a tiempo completo.
+Soy Simon, traductor independiente desde marzo de 2020. Después de haber trabajado en una agencia de traducción en Madrid, me embarco en una aventura empresarial para cumplir con mi pasión a tiempo completo.
 
 Aquí puedes descubrir mi experiencia, mis proyectos profesionales y personales, mis tarifas y mis áreas de especialización.
 
