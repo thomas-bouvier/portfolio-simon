@@ -1,7 +1,7 @@
 ---
 hero:
   name: Simon Meriadec
-  heading: I am a freelance french translator EN>FR ES>FR
+  heading: I am a freelance french translator EN>FR ES>FR.
 
 ---
 Welcome to my presentation site. 
