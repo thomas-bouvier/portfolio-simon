@@ -1,7 +1,7 @@
 ---
 hero:
   name: Simon Meriadec
-  heading: Soy un traductor autonomo francés ES>FR EN>FR
+  heading: Soy un traductor autonomo francés ES>FR EN>FR.
 
 ---
 Bienvenido al sitio de la presentación. 
