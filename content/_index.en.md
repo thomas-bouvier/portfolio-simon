@@ -4,7 +4,7 @@ hero:
   heading: I am a freelance french translator EN>FR ES>FR
 
 ---
-Welcome to the presentation site. 
+Welcome to my presentation site. 
 
 My name is Simon and I have been a freelance translator since March 2020. After working in a translation agency in Madrid, I am now embarking on an entrepreneurial adventure to fulfill my passion full time.
 
