@@ -27,7 +27,7 @@ name = "Contact"
 url = "/contact/"
 weight = 4
 [languages.en.params]
-description = "Really good translator"
+description = "Freelance french translator"
 home = "Home"
 [languages.es]
 languageName = "Español"
