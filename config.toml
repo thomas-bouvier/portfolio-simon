@@ -53,7 +53,7 @@ name = "Contacto"
 url = "/contact/"
 weight = 4
 [languages.es.params]
-description = "Un traductor muy bueno"
+description = "Traductor francés autonomo"
 home = "Inicio"
 [languages.fr]
 languageName = "Français"
