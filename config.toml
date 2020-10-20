@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://simon-meriadec.com/"
 defaultContentLanguage = "fr"
 languageCode = "fr-fr"
 theme = "uno"
