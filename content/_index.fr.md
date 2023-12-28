@@ -8,7 +8,7 @@ Bienvenue sur le site de présentation.
 
 Je m'appelle Simon et je suis traducteur en freelance depuis Mars 2020. Après avoir travaillé en agence de traduction à Madrid, je me lance dans l'aventure d'entrepreneur pour réaliser ma passion à plein temps.
 
- Vous pourrez découvrir ici mon expérience, mes projets professionnels et personnels, mes tarifs et mes domaines de spécialisations. 
+Découvrez ma philosophie de traduction, mes projets professionnels et personnels, mes tarifs et mes domaines de spécialisations en parcourant les différents onglets de ce site web.
 
 Je reste à votre entière disposition, quelle que soit l'heure ou la date. Contactez-moi sans hésitation pour toutes questions ou demandes de devis à l'adresse meriadec.simon@gmail.com.
 
