@@ -19,4 +19,5 @@ Finally, in a world saturated by images, I believe in the importance of creating
 
 In short, my passion for nature audio recordings and storytelling is fueled by a desire to fully immerse myself in the sensory experience, to give free rein to the listener's imagination, to capture ephemeral moments in time, and finally, to champion alternative creation in an image-saturated world.
 
-<iframe width="560" height="315" src="https://youtu.be/kfbRGMUtQJE" frameborder="0" allowfullscreen></iframe>
+<iframe width="2331" height="1011" src="https://www.youtube.com/embed/kfbRGMUtQJE" title="Naturodiffusion #1 - Matinée à la pointe de Pordic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+

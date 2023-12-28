@@ -1,7 +1,7 @@
 ---
-title: "Podcasts"
+title: "Enregistrements audios"
 date: 2017-08-28
-description: "J'effectue des podcasts."
+description: "L'immpersion par le son."
 draft: false
 ---
 
