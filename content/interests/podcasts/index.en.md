@@ -1,20 +1,22 @@
 ---
-title: "Podcasts"
+title: "Recordings"
 date: 2017-08-28
-description: "I make podcasts."
+description: "Immersion through sound."
 draft: false
 ---
 
 # Explanations
 
-Uh, is the puppy mechanical in any way? I usually try to keep my sadness pent up inside where it can fester quietly as a mental illness. Now what? Okay, I like a challenge. Who said that? SURE you can die! You want to die?!
+My passion for nature audio recordings and the stories that accompany them stems from several facets deeply rooted in me.
 
-Dear God, they'll be killed on our doorstep! And there's no trash pickup until January 3rd. You can see how I lived before I met you. Bite my shiny metal ass. You, minion. Lift my arm. AFTER HIM! The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
+Firstly, I appreciate the art of focusing on a single sense, exploiting it to the full. In a world constantly bombarded by visual stimuli, letting hearing take center stage allows me to plunge into a deeper, more immersive sensory experience. By freeing myself from visual saturation, I discover a universe rich in nuances of sound, where every rustle of foliage and whisper of nature becomes a spellbinding symphony.
 
-Ooh, name it after me! Tell them I hate them. Take me to your leader! Shut up and take my money!
+Another reason for my passion lies in the magic of sound storytelling. Like a captivating book, audio recordings allow me to create imaginary worlds where the listener is invited to weave his or her own web of mental images. Sounds become words, brushes that sketch unique soundscapes in the mind of the listener. This co-creation between narrator and listener amplifies the experience, giving rise to an intimate connection between sound content and one's own imagination.
 
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain.
+Another source of fascination for me is the idea that these recordings are marks in time. They capture ephemeral, magical moments that are easily forgotten in the hustle and bustle of everyday life. These sound testimonies become time capsules, audio memories that can be revisited at leisure, preserving pieces of personal and universal history that would otherwise be lost in oblivion.
 
-I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas. You mean while I'm sleeping in it? I wish! It's a nickel. Uh, is the puppy mechanical in any way?
+Finally, in a world saturated by images, I believe in the importance of creating differently. Audio recordings offer an alternative, an experience that encourages the listener to fully immerse themselves without the visual constraints. By cultivating this less-explored form of expression, I seek to promote a deeper, more attentive appreciation of our environment, an invitation to reveal the beauty hidden in sounds that often go unnoticed.
 
-Pansy. Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo! Guards! Bring me the forms I need to fill out to have her taken away! The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
+In short, my passion for nature audio recordings and storytelling is fueled by a desire to fully immerse myself in the sensory experience, to give free rein to the listener's imagination, to capture ephemeral moments in time, and finally, to champion alternative creation in an image-saturated world.
+
+<iframe width="560" height="315" src="https://youtu.be/kfbRGMUtQJE" frameborder="0" allowfullscreen></iframe>

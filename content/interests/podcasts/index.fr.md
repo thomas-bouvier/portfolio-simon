@@ -7,8 +7,17 @@ draft: false
 
 # Explications
 
-Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire. Il trouve ses racines dans une oeuvre de la littérature latine classique datant de 45 av. J.-C., le rendant vieux de 2000 ans. Un professeur du Hampden-Sydney College, en Virginie, s'est intéressé à un des mots latins les plus obscurs, consectetur, extrait d'un passage du Lorem Ipsum, et en étudiant tous les usages de ce mot dans la littérature classique, découvrit la source incontestable du Lorem Ipsum. Il provient en fait des sections 1.10.32 et 1.10.33 du "De Finibus Bonorum et Malorum" (Des Suprêmes Biens et des Suprêmes Maux) de Cicéron. Cet ouvrage, très populaire pendant la Renaissance, est un traité sur la théorie de l'éthique. Les premières lignes du Lorem Ipsum, "Lorem ipsum dolor sit amet...", proviennent de la section 1.10.32.
+Ma passion pour les enregistrements audio de la nature et les récits qui les accompagnent découle de plusieurs facettes profondément ancrées en moi.
 
-L'extrait standard de Lorem Ipsum utilisé depuis le XVIè siècle est reproduit ci-dessous pour les curieux. Les sections 1.10.32 et 1.10.33 du "De Finibus Bonorum et Malorum" de Cicéron sont aussi reproduites dans leur version originale, accompagnée de la traduction anglaise de H. Rackham (1914).
+Tout d'abord, j'apprécie l'art de me concentrer sur un seul sens, de l'exploiter pleinement. Dans un monde constamment bombardé de stimuli visuels, laisser l'ouïe prendre le devant de la scène me permet de plonger dans une expérience sensorielle plus profonde et plus immersive. En me libérant de la saturation visuelle, je découvre un univers riche de nuances sonores, où chaque bruissement de feuillage et chaque murmure de la nature deviennent une symphonie envoûtante.
 
-{{< video WQ3870cfq-4 "Ludodiffusion #3 - L'amour" >}}
+Une autre raison qui alimente ma passion réside dans la magie de la narration sonore. À l'instar d'un livre captivant, les enregistrements audio me permettent de créer des mondes imaginaires où l'auditeur est invité à tisser sa propre toile d'images mentales. Les sons deviennent des mots, des pinceaux qui esquissent des paysages sonores uniques dans l'esprit de celui qui écoute. Cette co-création entre le narrateur et l'auditeur amplifie l'expérience, donnant naissance à une connexion intime entre le contenu sonore et l'imagination de chacun.
+
+L'idée que ces enregistrements sont des marques dans le temps constitue une autre source de fascination pour moi. Ils capturent des moments éphémères, des instants magiques que l'on aurait facilement tendance à oublier dans le tourbillon de la vie quotidienne. Ces témoignages sonores deviennent des capsules temporelles, des souvenirs audio que l'on peut revisiter à loisir, préservant ainsi des morceaux d'histoire personnelle et universelle qui autrement se perdraient dans l'oubli.
+
+Enfin, dans un monde saturé par l'image, je crois en l'importance de créer autrement. Les enregistrements audio offrent une alternative, une expérience qui encourage l'auditeur à s'immerger pleinement sans les contraintes visuelles. En cultivant cette forme d'expression moins explorée, je cherche à promouvoir une appréciation plus profonde et plus attentive de notre environnement, une invitation à révéler la beauté cachée dans les sons qui souvent passent inaperçus.
+
+En somme, ma passion pour les enregistrements audio de la nature et les histoires racontées se nourrit de la volonté de m'immerger pleinement dans l'expérience sensorielle, de laisser libre cours à l'imagination de l'auditeur, de capturer des instants éphémères dans le temps, et enfin, de défendre la création alternative dans un monde saturé d'images.
+
+<iframe width="560" height="315" src="https://youtu.be/kfbRGMUtQJE" frameborder="0" allowfullscreen></iframe>
+
