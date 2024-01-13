@@ -10,7 +10,8 @@ draft: false
 **Seconde chance**
 
 La nature a encore beaucoup à offrir à celles et ceux qui s'empare du nouveau présent.
-![[Seconde chance](static/illustration seconde-chance.png)](https://seconde-chance.carrd.co/)
+
+{{< figure src="/illustration seconde-chance.png" title="An elephant at sunset" >}}
 
 
 **2042**
